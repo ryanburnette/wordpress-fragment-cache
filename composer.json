@@ -1,11 +1,14 @@
 {
   "name": "ryanburnette/fragment-cache",
   "description": "The fragment cache snippet for WordPress.",
-  "license": "GPL3",
+  "license": "GPL-3.0",
   "authors": [
     {
       "name": "Ryan Burnette",
       "email": "ryan.burnette@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+    "files": ["src/fragment_cache.php"}
+  }
 }
