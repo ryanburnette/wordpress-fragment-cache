@@ -24,4 +24,10 @@ Then wrap some PHP to cache its output.
 <?php } ?>
 ```
 
+Version History
+---------------
+
++ 0.1.0
+  + Initial
+
 [1]: http://css-tricks.com/wordpress-fragment-caching-revisited/
