@@ -9,6 +9,6 @@
     }
   ],
   "autoload": {
-    "files": ["src/fragment_cache.php"}
+    "files": ["src/fragment_cache.php"]
   }
 }
